@@ -1,4 +1,4 @@
-ocal Player = game:GetService("Players").LocalPlayer
+local Player = game:GetService("Players").LocalPlayer
 local WhitelistedIds = {
     2795769230,------BETAS
     1163619977,
