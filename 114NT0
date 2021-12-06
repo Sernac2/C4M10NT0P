@@ -27,6 +27,7 @@ local WhitelistedIds = {
     1073067018,---ssean
     1519565516,------brianAKAllZeXo
     2781621103,
+    109642584, ----belugaALV
 }
 
 if table.find(WhitelistedIds, Player.UserId) then
