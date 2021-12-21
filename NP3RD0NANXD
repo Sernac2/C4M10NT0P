@@ -1,0 +1,5 @@
+ game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(key)
+ if key == "c" then
+                      game.Players.LocalPlayer.Backpack.Glock.Barrel.CanCollide=true
+ end
+end)
